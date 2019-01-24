@@ -1,5 +1,5 @@
 
 
-class Person  
-  def 
+class Person
+  def
 end 
